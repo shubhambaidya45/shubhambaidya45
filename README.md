@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhambaidya45
 - 👀 I’m interested in ... learning computer  science
-- 🌱 I’m currently enrolled in the hharvard CS50x online program
+- 🌱 I’m currently enrolled in the Harvard CS50x online program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shubham.baidya.45@gmail.com
 
